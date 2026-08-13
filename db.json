@@ -1,0 +1,42 @@
+{
+  "vehicles": [
+    {
+      "id": "VV01",
+      "make": "BMW ",
+      "model": "1 SERIES",
+      "reg": "SB20 AXH",
+      "year": 2025,
+      "colour": "White",
+      "mileage": 62000,
+      "fuelLevel": 100,
+      "status": "AVAILABLE",
+      "dailyRate": 100,
+      "weeklyRate": 400,
+      "image": "https://pngimg.com/d/bmw_PNG99553.png",
+      "insuranceInfo": "Aviva Fleet Commercial",
+      "motExpiry": "2027-01-01",
+      "currentRentalId": null
+    }
+  ],
+  "customers": [
+    {
+      "id": "C000188",
+      "fullName": "TEST",
+      "phone": "TEST",
+      "email": "TEST@icloud.com",
+      "address": "TEST",
+      "licenceNumber": "TEST",
+      "licenceExpiry": "2029-09-14",
+      "licenceImage": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=600&q=80",
+      "verificationStatus": "VERIFIED",
+      "totalRentals": 0,
+      "totalSpend": 0,
+      "agreementSigned": true,
+      "agreementSignature": "TEST",
+      "agreementSignedDate": "2026-08-12",
+      "notes": "New customer"
+    }
+  ],
+  "rentals": [],
+  "tickets": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "cave-automotive-os",
+  "version": "2.5.0",
+  "description": "CAVE Automotive Operating System - Rental, PDF Agreement & Ticket Management Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["automotive", "rentals", "pwa", "pdf-agreement", "tickets"],
+  "author": "CAVE Automotive",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

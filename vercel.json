@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/api/state", "destination": "/api/state.js" }
+  ]
+}
